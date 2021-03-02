@@ -12,8 +12,8 @@
     <link rel="icon" href="/assets/images/icons/kevin_icon.ico">
 
     <!-- Scripts -->
-    <script src="{{ asset('js/app.js') }}" defer></script>
     <script src="https://kit.fontawesome.com/212d82f631.js" crossorigin="anonymous"></script>
+    <script src="{{ asset('js/app.js') }}" defer></script>
 
     <!-- Fonts -->
     <link rel="dns-prefetch" href="//fonts.gstatic.com">
@@ -167,7 +167,10 @@
                 </div>
             </div>
         </div>
-        <div class="text-center text-white pb-4">{{ config('app.name', 'Kevin Orenday') }} &#8226; &copy; NSCC IT Campus</div>
+
+        <div class="text-center text-white pb-4">
+            {{ config('app.name', 'Kevin Orenday') }} &#8226; &copy; NSCC IT Campus
+        </div>
     </div>
 </body>
 </html>
