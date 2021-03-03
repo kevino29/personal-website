@@ -110,7 +110,7 @@
 
 <div class="container py-8">
     <div class="row justify-content-center">
-        <a href="/download/resume" class="btn btn-theme p-2">Download Resume</a>
+        <a href="/download/resume" class="btn btn-theme p-2">Download Resume (.pdf)&nbsp;&nbsp;<i class="fas fa-download"></i></a>
     </div>
 </div>
 @endsection
