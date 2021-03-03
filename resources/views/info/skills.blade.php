@@ -160,6 +160,29 @@
                     <div>Android Studio</div>
                 </li>
             </ul>
+
+            <ul class="d-flex justify-content-center list-unstyled icon-list mt-3 mx-auto">
+                <li class="col text-center">
+                    <div class="img-icon">
+                        <img src="/assets/images/icons/heroku.png" alt="Heroku">
+                    </div>
+                    <div>Heroku</div>
+                </li>
+                <li class="col text-center">
+                    <i class="fab fa-git theme-fg lg-font-size"></i>
+                    <div>Git</div>
+                </li>
+                <li class="col text-center">
+                    <i class="fab fa-github theme-fg lg-font-size"></i>
+                    <div>GitHub</div>
+                </li>
+                <li class="col text-center">
+                    <div class="img-icon">
+                        <img src="/assets/images/icons/google_domains.png" alt="Google Domains">
+                    </div>
+                    <div>Google Domains</div>
+                </li>
+            </ul>
         </div>
     </div>
 
@@ -226,6 +249,9 @@
                 </li>
                 <li class="my-1">
                     Android Studio Icon by <a href="https://iconscout.com/contributors/hellomille" target="_blank">Aireen Ch</a>
+                </li>
+                <li>
+                    Heroku Logo Icon by <a href="https://iconscout.com/contributors/jagathish" target="_blank">Jagathish Saravanan</a>
                 </li>
                 <li class="my-1">
                     Phaser Icon from <a href="https://phaser.io/download/logo" target="_blank">Phaser.io</a>

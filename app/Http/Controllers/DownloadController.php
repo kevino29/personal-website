@@ -9,12 +9,12 @@ class DownloadController extends Controller
 {
     public function resume()
     {
-        $file = public_path() . "/assets/docs/kevin_orenday_resume.docx";
+        $file = public_path() . "/assets/docs/kevin_orenday_resume.pdf";
 
         $headers = array(
-            'Content-Type: application/docx',
+            'Content-Type: application/pdf',
         );
 
-        return Response::download($file, "Kevin_Orenday_Resume.docx", $headers);
+        return Response::download($file, "Kevin_Orenday_Resume.pdf", $headers);
     }
 }

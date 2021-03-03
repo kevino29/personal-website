@@ -63,6 +63,7 @@
             <div>Windows, Linux, and Android</div>
             <div>Bootstrap, Laravel, Node.js, Express.js, Phaser</div>
             <div>MS Office Suite, JetBrains IDEs, VS Code, Visual Studio, Android Studio</div>
+            <div>Heroku, Git/GitHub, Google Domains</div>
         </div>
     </div>
 
