@@ -35,7 +35,7 @@
     <div class="row py-3">
         <div class="col h4 w-100">Communications</div>
         <div class="col paragraph">
-            Had consistent meetings with the team I was working with, which resulted in clear instructions on what and how to do things.
+            Had consistent meetings with the team I was working with on a project, which resulted in clear instructions on what and how to do things and which role I was playing in the team.
         </div>
     </div>
 </div>
