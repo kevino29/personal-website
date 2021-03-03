@@ -14,8 +14,12 @@
 </div>
 
 <div class="container py-8">
-    <div class="row pb-4">
-        <div class="col h3 theme-fg">General Skills</div>
+    <div class="row justify-content-center mb-5">
+        <div class="col-md-8">
+            <div class="statement-span py-1">
+                <div class="theme-highlight rounded-pill text-white w-100">General Skills</div>
+            </div>
+        </div>
     </div>
 
     <div class="row py-3">
@@ -45,8 +49,12 @@
 </div>
 
 <div class="container py-8">
-    <div class="row pb-5">
-        <div class="col h3 theme-fg">Technical Skills</div>
+    <div class="row justify-content-center mb-5">
+        <div class="col-md-8">
+            <div class="statement-span py-1">
+                <div class="theme-highlight rounded-pill text-white w-100">Technical Skills</div>
+            </div>
+        </div>
     </div>
 
     <div class="row py-3">
