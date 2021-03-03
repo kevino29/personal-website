@@ -168,7 +168,11 @@
             </div>
         </div>
 
-        <div class="text-center text-white pb-4">
+        <div class="text-center text-white font-italic">
+            This website was hand-coded by myself, using the Laravel framework and Heroku as a platform to deploy on.
+        </div>
+
+        <div class="text-center text-white py-4">
             {{ config('app.name', 'Kevin Orenday') }} &#8226; &copy; NSCC IT Campus
         </div>
     </div>

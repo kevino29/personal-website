@@ -13,7 +13,7 @@
     <hr class="glyph">
 </div>
 
-<div class="container-sm p-5 my-4 border border-dark">
+<div class="container-sm p-5 my-4 border border-dark shadow-lg">
     {{--  Header  --}}
     <div class="row justify-content-center">
         <div class="h1 font-weight-bolder">KEVIN ORENDAY</div>
