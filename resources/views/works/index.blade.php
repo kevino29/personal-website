@@ -32,19 +32,19 @@
                 </ol>
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img class="d-block w-100 rounded" src="/assets/images/works/mp3-player/initial_state.png" alt="Program's Initial State">
+                        <img class="d-block w-100 rounded" src="/assets/images/works/mp3-player/initial_state.PNG" alt="Program's Initial State">
                         <div class="carousel-caption d-none d-md-block">
                             <div class="h5 theme-fg"><span class="bg-white p-1 rounded">The program's initial state</span></div>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100 rounded" src="/assets/images/works/mp3-player/playing.png" alt="The program while a song is playing">
+                        <img class="d-block w-100 rounded" src="/assets/images/works/mp3-player/playing.PNG" alt="The program while a song is playing">
                         <div class="carousel-caption d-none d-md-block">
                             <div class="h5 theme-fg"><span class="bg-white p-1 rounded">The program while a song is playing</span></div>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100 rounded" src="/assets/images/works/mp3-player/tagging.png" alt="The program's tagging menu">
+                        <img class="d-block w-100 rounded" src="/assets/images/works/mp3-player/tagging.PNG" alt="The program's tagging menu">
                         <div class="carousel-caption d-none d-md-block">
                             <div class="h5 theme-fg"><span class="bg-white p-1 rounded">The program's tagging menu.</span></div>
                         </div>
@@ -96,7 +96,7 @@
                 </ol>
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img class="d-block w-100 rounded" src="/assets/images/works/flappy-bird/intro_screen.png" alt="Flappy Bird Intro Screen">
+                        <img class="d-block w-100 rounded" src="/assets/images/works/flappy-bird/intro_screen.PNG" alt="Flappy Bird Intro Screen">
                         <div class="carousel-caption d-none d-md-block">
                             <div class="h5 theme-fg"><span class="bg-white p-1 rounded">Intro Screen</span></div>
                         </div>
@@ -111,7 +111,7 @@
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100 rounded" src="/assets/images/works/flappy-bird/game_over.png" alt="Game Over Screen">
+                        <img class="d-block w-100 rounded" src="/assets/images/works/flappy-bird/game_over.PNG" alt="Game Over Screen">
                         <div class="carousel-caption d-none d-md-block">
                             <div class="h5 theme-fg"><span class="bg-white p-1 rounded">Game Over Screen</span></div>
                         </div>
@@ -163,19 +163,19 @@
                 </ol>
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img class="d-block w-100 rounded" src="/assets/images/works/maze-solver/maze.png" alt="Sample maze">
+                        <img class="d-block w-100 rounded" src="/assets/images/works/maze-solver/maze.PNG" alt="Sample maze">
                         <div class="carousel-caption d-none d-md-block">
                             <div class="h5 theme-fg"><span class="bg-white p-1 rounded">Sample Maze</span></div>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100 rounded" src="/assets/images/works/maze-solver/maze_solved.png" alt="Solved Maze">
+                        <img class="d-block w-100 rounded" src="/assets/images/works/maze-solver/maze_solved.PNG" alt="Solved Maze">
                         <div class="carousel-caption d-none d-md-block">
                             <div class="h5 theme-fg"><span class="bg-white p-1 rounded">Solved Maze</span></div>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100 rounded" src="/assets/images/works/maze-solver/code_snippet.png" alt="Code Snippet">
+                        <img class="d-block w-100 rounded" src="/assets/images/works/maze-solver/code_snippet.PNG" alt="Code Snippet">
                         <div class="carousel-caption d-none d-md-block">
                             <div class="h5 theme-fg text-right"><span class="bg-white p-1 rounded">Code Snippet</span></div>
                         </div>
@@ -258,7 +258,7 @@
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100 rounded" src="/assets/images/works/spell-checker/code_snippet.png" alt="Code Snippet">
+                        <img class="d-block w-100 rounded" src="/assets/images/works/spell-checker/code_snippet.PNG" alt="Code Snippet">
                         <div class="carousel-caption d-none d-md-block">
                             <div class="h5 theme-fg text-right"><span class="bg-white p-1 rounded">Code Snippet</span></div>
                         </div>
@@ -318,25 +318,25 @@
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100 rounded" src="/assets/images/works/personal-website/works.png" alt="Works Page">
+                        <img class="d-block w-100 rounded" src="/assets/images/works/personal-website/works.PNG" alt="Works Page">
                         <div class="carousel-caption d-none d-md-block">
                             <div class="h5 theme-fg text-right"><span class="bg-white p-1 rounded">Works Page</span></div>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100 rounded" src="/assets/images/works/personal-website/skills.png" alt="Skills Page">
+                        <img class="d-block w-100 rounded" src="/assets/images/works/personal-website/skills.PNG" alt="Skills Page">
                         <div class="carousel-caption d-none d-md-block">
                             <div class="h5 theme-fg text-right"><span class="bg-white p-1 rounded">Skills Page</span></div>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100 rounded" src="/assets/images/works/personal-website/resume.png" alt="Resume Page">
+                        <img class="d-block w-100 rounded" src="/assets/images/works/personal-website/resume.PNG" alt="Resume Page">
                         <div class="carousel-caption d-none d-md-block">
                             <div class="h5 theme-fg text-right"><span class="bg-white p-1 rounded">Resume Page</span></div>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100 rounded" src="/assets/images/works/personal-website/contacts.png" alt="Contacts Page">
+                        <img class="d-block w-100 rounded" src="/assets/images/works/personal-website/contacts.PNG" alt="Contacts Page">
                         <div class="carousel-caption d-none d-md-block">
                             <div class="h5 theme-fg text-right"><span class="bg-white p-1 rounded">Contacts Page</span></div>
                         </div>
