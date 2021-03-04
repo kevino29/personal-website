@@ -168,8 +168,8 @@
             </div>
         </div>
 
-        <div class="text-center text-white font-italic">
-            This website was hand-coded by myself, using the Laravel framework and Heroku as a platform to deploy on.
+        <div class="paragraph text-center text-white font-italic">
+            This website was hand-coded by myself, using the Laravel PHP web framework for development, and Heroku as a platform to deploy on.
         </div>
 
         <div class="text-center text-white py-4">

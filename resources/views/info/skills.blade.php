@@ -23,21 +23,21 @@
     </div>
 
     <div class="row py-3">
-        <div class="col h4 w-100">Teamwork and Problem Solving</div>
+        <div class="col-md-5 h4 w-100 font-weight-bold">Teamwork and Problem Solving</div>
         <div class="col paragraph">
             Met up with the team and practiced problems that we were likely to face in the challenges, earning us third place in the first annual Code Quest competition.
         </div>
     </div>
 
     <div class="row py-3">
-        <div class="col h4 w-100">Time Management</div>
+        <div class="col-md-5 h4 w-100 font-weight-bold">Time Management</div>
         <div class="col paragraph">
             Created a whole year schedule of due dates resulting in no late works and better time handling.
         </div>
     </div>
 
     <div class="row py-3">
-        <div class="col h4 w-100">Communications</div>
+        <div class="col-md-5 h4 w-100 font-weight-bold">Communications</div>
         <div class="col paragraph">
             Had consistent meetings with the team I was working with on a project, which resulted in clear instructions on what and how to do things and which role I was playing in the team.
         </div>
@@ -67,7 +67,7 @@
                     <ul class="d-flex justify-content-center list-unstyled icon-list mx-auto mt-3">
                         <li class="col text-center">
                             <i class="fab fa-python theme-fg lg-font-size"></i>
-                            <div>Python</div>
+                            <div>Python <i class="fas fa-check-circle text-primary"></i></div>
                         </li>
                         <li class="col text-center">
                             <i class="fab fa-java theme-fg lg-font-size"></i>
@@ -83,7 +83,7 @@
                             <div class="img-icon">
                                 <img src="/assets/images/icons/cpp.png" alt="C++ Icon">
                             </div>
-                            <div>C++</div>
+                            <div>C++ <i class="fas fa-check-circle text-primary"></i></div>
                         </li>
                         <li class="col text-center">
                             <div class="img-icon">
@@ -96,23 +96,24 @@
                     <ul class="d-flex justify-content-center list-unstyled icon-list mt-3 mx-auto">
                         <li class="col text-center">
                             <i class="fab fa-html5 theme-fg lg-font-size"></i>
-                            <div>HTML5</div>
+                            <div>HTML/HTML5 <i class="fas fa-check-circle text-primary"></i></div>
                         </li>
                         <li class="col text-center">
                             <i class="fab fa-css3 theme-fg lg-font-size"></i>
-                            <div>CSS3</div>
+                            <div>CSS/CSS3 <i class="fas fa-check-circle text-primary"></i></div>
                         </li>
                         <li class="col text-center">
                             <i class="fab fa-js-square theme-fg lg-font-size"></i>
-                            <div>JavaScript</div>
+                            <div>JavaScript <i class="fas fa-check-circle text-primary"></i></div>
                         </li>
                         <li class="col text-center">
                             <i class="fab fa-php theme-fg lg-font-size"></i>
-                            <div>PHP</div>
+                            <div>PHP <i class="fas fa-check-circle text-primary"></i></div>
                         </li>
                     </ul>
                 </div>
             </div>
+            <div class="text-right font-italic mt-3">* Languages with <i class="fas fa-check-circle text-primary"></i> mark are languages where I passed the LinkedIn Skill Assessment Quiz</div>
         </div>
     </div>
 
@@ -120,7 +121,7 @@
         <div class="col">
             <div class="card shadow">
                 <div class="card-header theme-bg">
-                    <div class="h4 text-center text-white">Technologies I have used:</div>
+                    <div class="h4 text-center text-white">Technologies I have worked with:</div>
                 </div>
 
                 <div class="card-body overflow-auto">
@@ -199,6 +200,12 @@
                             </div>
                             <div>Google Domains</div>
                         </li>
+                        <li class="col text-center">
+                            <div class="img-icon">
+                                <img src="/assets/images/icons/aws.png" alt="Amazon Web Services">
+                            </div>
+                            <div>AWS</div>
+                        </li>
                     </ul>
                 </div>
             </div>
@@ -274,8 +281,11 @@
                 <li class="my-1">
                     Android Studio Icon by <a href="https://iconscout.com/contributors/hellomille" target="_blank">Aireen Ch</a>
                 </li>
-                <li>
+                <li class="my-1">
                     Heroku Logo Icon by <a href="https://iconscout.com/contributors/jagathish" target="_blank">Jagathish Saravanan</a>
+                </li>
+                <li>
+                    AWS Logo Icon by <a href="https://iconscout.com/contributors/maninderkaur" target="_blank">Maninder Kaur</a>
                 </li>
                 <li class="my-1">
                     Phaser Icon from <a href="https://phaser.io/download/logo" target="_blank">Phaser.io</a>
