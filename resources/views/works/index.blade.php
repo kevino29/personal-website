@@ -24,11 +24,11 @@
 
     <div class="row justify-content-center mt-5">
         <div class="col-md-6">
-            <div id="carouselIndicators1" class="carousel slide shadow" data-ride="carousel">
+            <div id="mp3-player" class="carousel slide shadow" data-ride="carousel">
                 <ol class="carousel-indicators">
-                    <li data-target="#carouselIndicators1" data-slide-to="0" class="active"></li>
-                    <li data-target="#carouselIndicators1" data-slide-to="1"></li>
-                    <li data-target="#carouselIndicators1" data-slide-to="2"></li>
+                    <li data-target="#mp3-player" data-slide-to="0" class="active"></li>
+                    <li data-target="#mp3-player" data-slide-to="1"></li>
+                    <li data-target="#mp3-player" data-slide-to="2"></li>
                 </ol>
                 <div class="carousel-inner">
                     <div class="carousel-item active">
@@ -50,11 +50,11 @@
                         </div>
                     </div>
                 </div>
-                <a class="carousel-control-prev" href="#carouselIndicators1" role="button" data-slide="prev">
+                <a class="carousel-control-prev" href="#mp3-player" role="button" data-slide="prev">
                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                     <span class="sr-only">Previous</span>
                 </a>
-                <a class="carousel-control-next" href="#carouselIndicators1" role="button" data-slide="next">
+                <a class="carousel-control-next" href="#mp3-player" role="button" data-slide="next">
                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                     <span class="sr-only">Next</span>
                 </a>
@@ -88,11 +88,11 @@
 
     <div class="row justify-content-center mt-5">
         <div class="col-md-6">
-            <div id="carouselIndicators2" class="carousel slide shadow" data-ride="carousel">
+            <div id="flappy-bird" class="carousel slide shadow" data-ride="carousel">
                 <ol class="carousel-indicators">
-                    <li data-target="#carouselIndicators2" data-slide-to="0" class="active"></li>
-                    <li data-target="#carouselIndicators2" data-slide-to="1"></li>
-                    <li data-target="#carouselIndicators2" data-slide-to="2"></li>
+                    <li data-target="#flappy-bird" data-slide-to="0" class="active"></li>
+                    <li data-target="#flappy-bird" data-slide-to="1"></li>
+                    <li data-target="#flappy-bird" data-slide-to="2"></li>
                 </ol>
                 <div class="carousel-inner">
                     <div class="carousel-item active">
@@ -117,11 +117,11 @@
                         </div>
                     </div>
                 </div>
-                <a class="carousel-control-prev" href="#carouselIndicators2" role="button" data-slide="prev">
+                <a class="carousel-control-prev" href="#flappy-bird" role="button" data-slide="prev">
                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                     <span class="sr-only">Previous</span>
                 </a>
-                <a class="carousel-control-next" href="#carouselIndicators2" role="button" data-slide="next">
+                <a class="carousel-control-next" href="#flappy-bird" role="button" data-slide="next">
                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                     <span class="sr-only">Next</span>
                 </a>
@@ -155,11 +155,11 @@
 
     <div class="row justify-content-center mt-5">
         <div class="col-md-6">
-            <div id="carouselIndicators3" class="carousel slide shadow" data-ride="carousel">
+            <div id="maze-solver" class="carousel slide shadow" data-ride="carousel">
                 <ol class="carousel-indicators">
-                    <li data-target="#carouselIndicators3" data-slide-to="0" class="active"></li>
-                    <li data-target="#carouselIndicators3" data-slide-to="1"></li>
-                    <li data-target="#carouselIndicators3" data-slide-to="2"></li>
+                    <li data-target="#maze-solver" data-slide-to="0" class="active"></li>
+                    <li data-target="#maze-solver" data-slide-to="1"></li>
+                    <li data-target="#maze-solver" data-slide-to="2"></li>
                 </ol>
                 <div class="carousel-inner">
                     <div class="carousel-item active">
@@ -181,11 +181,11 @@
                         </div>
                     </div>
                 </div>
-                <a class="carousel-control-prev" href="#carouselIndicators3" role="button" data-slide="prev">
+                <a class="carousel-control-prev" href="#maze-solver" role="button" data-slide="prev">
                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                     <span class="sr-only">Previous</span>
                 </a>
-                <a class="carousel-control-next" href="#carouselIndicators3" role="button" data-slide="next">
+                <a class="carousel-control-next" href="#maze-solver" role="button" data-slide="next">
                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                     <span class="sr-only">Next</span>
                 </a>
@@ -219,11 +219,11 @@
 
     <div class="row justify-content-center mt-5">
         <div class="col-md-6">
-            <div id="carouselIndicators4" class="carousel slide shadow" data-ride="carousel">
+            <div id="spell-checker" class="carousel slide shadow" data-ride="carousel">
                 <ol class="carousel-indicators">
-                    <li data-target="#carouselIndicators4" data-slide-to="0" class="active"></li>
-                    <li data-target="#carouselIndicators4" data-slide-to="1"></li>
-                    <li data-target="#carouselIndicators4" data-slide-to="2"></li>
+                    <li data-target="#spell-checker" data-slide-to="0" class="active"></li>
+                    <li data-target="#spell-checker" data-slide-to="1"></li>
+                    <li data-target="#spell-checker" data-slide-to="2"></li>
                 </ol>
                 <div class="carousel-inner">
                     <div class="carousel-item active">
@@ -264,11 +264,11 @@
                         </div>
                     </div>
                 </div>
-                <a class="carousel-control-prev" href="#carouselIndicators4" role="button" data-slide="prev">
+                <a class="carousel-control-prev" href="#spell-checker" role="button" data-slide="prev">
                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                     <span class="sr-only">Previous</span>
                 </a>
-                <a class="carousel-control-next" href="#carouselIndicators4" role="button" data-slide="next">
+                <a class="carousel-control-next" href="#spell-checker" role="button" data-slide="next">
                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                     <span class="sr-only">Next</span>
                 </a>
@@ -302,13 +302,13 @@
 
     <div class="row justify-content-center mt-5">
         <div class="col-md-6">
-            <div id="carouselIndicators5" class="carousel slide shadow" data-ride="carousel">
+            <div id="personal-website" class="carousel slide shadow" data-ride="carousel">
                 <ol class="carousel-indicators mx-auto">
-                    <li data-target="#carouselIndicators5" data-slide-to="0" class="active"></li>
-                    <li data-target="#carouselIndicators5" data-slide-to="1"></li>
-                    <li data-target="#carouselIndicators5" data-slide-to="2"></li>
-                    <li data-target="#carouselIndicators5" data-slide-to="3"></li>
-                    <li data-target="#carouselIndicators5" data-slide-to="4"></li>
+                    <li data-target="#personal-website" data-slide-to="0" class="active"></li>
+                    <li data-target="#personal-website" data-slide-to="1"></li>
+                    <li data-target="#personal-website" data-slide-to="2"></li>
+                    <li data-target="#personal-website" data-slide-to="3"></li>
+                    <li data-target="#personal-website" data-slide-to="4"></li>
                 </ol>
                 <div class="carousel-inner">
                     <div class="carousel-item">
@@ -342,11 +342,11 @@
                         </div>
                     </div>
                 </div>
-                <a class="carousel-control-prev" href="#carouselIndicators5" role="button" data-slide="prev">
+                <a class="carousel-control-prev" href="#personal-website" role="button" data-slide="prev">
                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                     <span class="sr-only">Previous</span>
                 </a>
-                <a class="carousel-control-next" href="#carouselIndicators5" role="button" data-slide="next">
+                <a class="carousel-control-next" href="#personal-website" role="button" data-slide="next">
                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                     <span class="sr-only">Next</span>
                 </a>
