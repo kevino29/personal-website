@@ -24,40 +24,41 @@
 
     <div class="row justify-content-center mt-5">
         <div class="col-md-6">
-            <div id="mp3-player" class="carousel slide shadow" data-ride="carousel">
-                <ol class="carousel-indicators">
-                    <li data-target="#mp3-player" data-slide-to="0" class="active"></li>
-                    <li data-target="#mp3-player" data-slide-to="1"></li>
-                    <li data-target="#mp3-player" data-slide-to="2"></li>
-                </ol>
+            <div id="mp3-player" class="carousel slide pointer-cursor shadow" data-ride="carousel"
+                 data-toggle="tooltip" data-placement="bottom" title="Click to zoom">
+{{--                <ol class="carousel-indicators">--}}
+{{--                    <li data-target="#mp3-player" data-slide-to="0" class="active"></li>--}}
+{{--                    <li data-target="#mp3-player" data-slide-to="1"></li>--}}
+{{--                    <li data-target="#mp3-player" data-slide-to="2"></li>--}}
+{{--                </ol>--}}
                 <div class="carousel-inner">
                     <div class="carousel-item active">
                         <img class="d-block w-100 rounded" src="/assets/images/works/mp3-player/initial_state.PNG" alt="Program's Initial State">
-                        <div class="carousel-caption d-none d-md-block">
-                            <div class="h5 theme-fg"><span class="bg-white p-1 rounded">The program's initial state</span></div>
-                        </div>
+{{--                        <div class="carousel-caption d-none d-md-block">--}}
+{{--                            <div class="h5 theme-fg"><span class="bg-white p-1 rounded">The program's initial state</span></div>--}}
+{{--                        </div>--}}
                     </div>
                     <div class="carousel-item">
                         <img class="d-block w-100 rounded" src="/assets/images/works/mp3-player/playing.PNG" alt="The program while a song is playing">
-                        <div class="carousel-caption d-none d-md-block">
-                            <div class="h5 theme-fg"><span class="bg-white p-1 rounded">The program while a song is playing</span></div>
-                        </div>
+{{--                        <div class="carousel-caption d-none d-md-block">--}}
+{{--                            <div class="h5 theme-fg"><span class="bg-white p-1 rounded">The program while a song is playing</span></div>--}}
+{{--                        </div>--}}
                     </div>
                     <div class="carousel-item">
                         <img class="d-block w-100 rounded" src="/assets/images/works/mp3-player/tagging.PNG" alt="The program's tagging menu">
-                        <div class="carousel-caption d-none d-md-block">
-                            <div class="h5 theme-fg"><span class="bg-white p-1 rounded">The program's tagging menu.</span></div>
-                        </div>
+{{--                        <div class="carousel-caption d-none d-md-block">--}}
+{{--                            <div class="h5 theme-fg"><span class="bg-white p-1 rounded">The program's tagging menu.</span></div>--}}
+{{--                        </div>--}}
                     </div>
                 </div>
-                <a class="carousel-control-prev" href="#mp3-player" role="button" data-slide="prev">
-                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                    <span class="sr-only">Previous</span>
-                </a>
-                <a class="carousel-control-next" href="#mp3-player" role="button" data-slide="next">
-                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                    <span class="sr-only">Next</span>
-                </a>
+{{--                <a class="carousel-control-prev" href="#mp3-player" role="button" data-slide="prev">--}}
+{{--                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>--}}
+{{--                    <span class="sr-only">Previous</span>--}}
+{{--                </a>--}}
+{{--                <a class="carousel-control-next" href="#mp3-player" role="button" data-slide="next">--}}
+{{--                    <span class="carousel-control-next-icon" aria-hidden="true"></span>--}}
+{{--                    <span class="sr-only">Next</span>--}}
+{{--                </a>--}}
             </div>
         </div>
     </div>
@@ -88,43 +89,44 @@
 
     <div class="row justify-content-center mt-5">
         <div class="col-md-6">
-            <div id="flappy-bird" class="carousel slide shadow" data-ride="carousel">
-                <ol class="carousel-indicators">
-                    <li data-target="#flappy-bird" data-slide-to="0" class="active"></li>
-                    <li data-target="#flappy-bird" data-slide-to="1"></li>
-                    <li data-target="#flappy-bird" data-slide-to="2"></li>
-                </ol>
+            <div id="flappy-bird" class="carousel slide pointer-cursor shadow" data-ride="carousel"
+                 data-toggle="tooltip" data-placement="bottom" title="Click to zoom">
+{{--                <ol class="carousel-indicators">--}}
+{{--                    <li data-target="#flappy-bird" data-slide-to="0" class="active"></li>--}}
+{{--                    <li data-target="#flappy-bird" data-slide-to="1"></li>--}}
+{{--                    <li data-target="#flappy-bird" data-slide-to="2"></li>--}}
+{{--                </ol>--}}
                 <div class="carousel-inner">
                     <div class="carousel-item active">
                         <img class="d-block w-100 rounded" src="/assets/images/works/flappy-bird/intro_screen.PNG" alt="Flappy Bird Intro Screen">
-                        <div class="carousel-caption d-none d-md-block">
-                            <div class="h5 theme-fg"><span class="bg-white p-1 rounded">Intro Screen</span></div>
-                        </div>
+{{--                        <div class="carousel-caption d-none d-md-block">--}}
+{{--                            <div class="h5 theme-fg"><span class="bg-white p-1 rounded">Intro Screen</span></div>--}}
+{{--                        </div>--}}
                     </div>
                     <div class="carousel-item">
                         <video class="d-block w-100 rounded" autoplay muted loop
                                src="/assets/videos/works/flappy-bird/gameplay.mp4">
                             Your browser does not support the video tag.
                         </video>
-                        <div class="carousel-caption d-none d-md-block">
-                            <div class="h5 theme-fg"><span class="bg-white p-1 rounded">Gameplay</span></div>
-                        </div>
+{{--                        <div class="carousel-caption d-none d-md-block">--}}
+{{--                            <div class="h5 theme-fg"><span class="bg-white p-1 rounded">Gameplay</span></div>--}}
+{{--                        </div>--}}
                     </div>
                     <div class="carousel-item">
                         <img class="d-block w-100 rounded" src="/assets/images/works/flappy-bird/game_over.PNG" alt="Game Over Screen">
-                        <div class="carousel-caption d-none d-md-block">
-                            <div class="h5 theme-fg"><span class="bg-white p-1 rounded">Game Over Screen</span></div>
-                        </div>
+{{--                        <div class="carousel-caption d-none d-md-block">--}}
+{{--                            <div class="h5 theme-fg"><span class="bg-white p-1 rounded">Game Over Screen</span></div>--}}
+{{--                        </div>--}}
                     </div>
                 </div>
-                <a class="carousel-control-prev" href="#flappy-bird" role="button" data-slide="prev">
-                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                    <span class="sr-only">Previous</span>
-                </a>
-                <a class="carousel-control-next" href="#flappy-bird" role="button" data-slide="next">
-                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                    <span class="sr-only">Next</span>
-                </a>
+{{--                <a class="carousel-control-prev" href="#flappy-bird" role="button" data-slide="prev">--}}
+{{--                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>--}}
+{{--                    <span class="sr-only">Previous</span>--}}
+{{--                </a>--}}
+{{--                <a class="carousel-control-next" href="#flappy-bird" role="button" data-slide="next">--}}
+{{--                    <span class="carousel-control-next-icon" aria-hidden="true"></span>--}}
+{{--                    <span class="sr-only">Next</span>--}}
+{{--                </a>--}}
             </div>
         </div>
     </div>
@@ -155,40 +157,41 @@
 
     <div class="row justify-content-center mt-5">
         <div class="col-md-6">
-            <div id="maze-solver" class="carousel slide shadow" data-ride="carousel">
-                <ol class="carousel-indicators">
-                    <li data-target="#maze-solver" data-slide-to="0" class="active"></li>
-                    <li data-target="#maze-solver" data-slide-to="1"></li>
-                    <li data-target="#maze-solver" data-slide-to="2"></li>
-                </ol>
+            <div id="maze-solver" class="carousel slide pointer-cursor shadow" data-ride="carousel"
+                 data-toggle="tooltip" data-placement="bottom" title="Click to zoom">
+{{--                <ol class="carousel-indicators">--}}
+{{--                    <li data-target="#maze-solver" data-slide-to="0" class="active"></li>--}}
+{{--                    <li data-target="#maze-solver" data-slide-to="1"></li>--}}
+{{--                    <li data-target="#maze-solver" data-slide-to="2"></li>--}}
+{{--                </ol>--}}
                 <div class="carousel-inner">
                     <div class="carousel-item active">
                         <img class="d-block w-100 rounded" src="/assets/images/works/maze-solver/maze.PNG" alt="Sample maze">
-                        <div class="carousel-caption d-none d-md-block">
-                            <div class="h5 theme-fg"><span class="bg-white p-1 rounded">Sample Maze</span></div>
-                        </div>
+{{--                        <div class="carousel-caption d-none d-md-block">--}}
+{{--                            <div class="h5 theme-fg"><span class="bg-white p-1 rounded">Sample Maze</span></div>--}}
+{{--                        </div>--}}
                     </div>
                     <div class="carousel-item">
                         <img class="d-block w-100 rounded" src="/assets/images/works/maze-solver/maze_solved.PNG" alt="Solved Maze">
-                        <div class="carousel-caption d-none d-md-block">
-                            <div class="h5 theme-fg"><span class="bg-white p-1 rounded">Solved Maze</span></div>
-                        </div>
+{{--                        <div class="carousel-caption d-none d-md-block">--}}
+{{--                            <div class="h5 theme-fg"><span class="bg-white p-1 rounded">Solved Maze</span></div>--}}
+{{--                        </div>--}}
                     </div>
                     <div class="carousel-item">
                         <img class="d-block w-100 rounded" src="/assets/images/works/maze-solver/code_snippet.PNG" alt="Code Snippet">
-                        <div class="carousel-caption d-none d-md-block">
-                            <div class="h5 theme-fg text-right"><span class="bg-white p-1 rounded">Code Snippet</span></div>
-                        </div>
+{{--                        <div class="carousel-caption d-none d-md-block">--}}
+{{--                            <div class="h5 theme-fg text-right"><span class="bg-white p-1 rounded">Code Snippet</span></div>--}}
+{{--                        </div>--}}
                     </div>
                 </div>
-                <a class="carousel-control-prev" href="#maze-solver" role="button" data-slide="prev">
-                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                    <span class="sr-only">Previous</span>
-                </a>
-                <a class="carousel-control-next" href="#maze-solver" role="button" data-slide="next">
-                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                    <span class="sr-only">Next</span>
-                </a>
+{{--                <a class="carousel-control-prev" href="#maze-solver" role="button" data-slide="prev">--}}
+{{--                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>--}}
+{{--                    <span class="sr-only">Previous</span>--}}
+{{--                </a>--}}
+{{--                <a class="carousel-control-next" href="#maze-solver" role="button" data-slide="next">--}}
+{{--                    <span class="carousel-control-next-icon" aria-hidden="true"></span>--}}
+{{--                    <span class="sr-only">Next</span>--}}
+{{--                </a>--}}
             </div>
         </div>
     </div>
@@ -219,12 +222,12 @@
 
     <div class="row justify-content-center mt-5">
         <div class="col-md-6">
-            <div id="spell-checker" class="carousel slide shadow" data-ride="carousel">
-                <ol class="carousel-indicators">
-                    <li data-target="#spell-checker" data-slide-to="0" class="active"></li>
-                    <li data-target="#spell-checker" data-slide-to="1"></li>
-                    <li data-target="#spell-checker" data-slide-to="2"></li>
-                </ol>
+            <div id="spell-checker" class="carousel slide pointer-cursor shadow" data-ride="carousel">
+{{--                <ol class="carousel-indicators">--}}
+{{--                    <li data-target="#spell-checker" data-slide-to="0" class="active"></li>--}}
+{{--                    <li data-target="#spell-checker" data-slide-to="1"></li>--}}
+{{--                    <li data-target="#spell-checker" data-slide-to="2"></li>--}}
+{{--                </ol>--}}
                 <div class="carousel-inner">
                     <div class="carousel-item active">
                         <div class="card">
@@ -264,14 +267,14 @@
                         </div>
                     </div>
                 </div>
-                <a class="carousel-control-prev" href="#spell-checker" role="button" data-slide="prev">
-                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                    <span class="sr-only">Previous</span>
-                </a>
-                <a class="carousel-control-next" href="#spell-checker" role="button" data-slide="next">
-                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                    <span class="sr-only">Next</span>
-                </a>
+{{--                <a class="carousel-control-prev" href="#spell-checker" role="button" data-slide="prev">--}}
+{{--                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>--}}
+{{--                    <span class="sr-only">Previous</span>--}}
+{{--                </a>--}}
+{{--                <a class="carousel-control-next" href="#spell-checker" role="button" data-slide="next">--}}
+{{--                    <span class="carousel-control-next-icon" aria-hidden="true"></span>--}}
+{{--                    <span class="sr-only">Next</span>--}}
+{{--                </a>--}}
             </div>
         </div>
     </div>
@@ -302,54 +305,55 @@
 
     <div class="row justify-content-center mt-5">
         <div class="col-md-6">
-            <div id="personal-website" class="carousel slide shadow" data-ride="carousel">
-                <ol class="carousel-indicators mx-auto">
-                    <li data-target="#personal-website" data-slide-to="0" class="active"></li>
-                    <li data-target="#personal-website" data-slide-to="1"></li>
-                    <li data-target="#personal-website" data-slide-to="2"></li>
-                    <li data-target="#personal-website" data-slide-to="3"></li>
-                    <li data-target="#personal-website" data-slide-to="4"></li>
-                </ol>
+            <div id="portfolio" class="carousel slide pointer-cursor shadow" data-ride="carousel"
+                 data-toggle="tooltip" data-placement="bottom" title="Click to zoom">
+{{--                <ol class="carousel-indicators mx-auto">--}}
+{{--                    <li data-target="#personal-website" data-slide-to="0" class="active"></li>--}}
+{{--                    <li data-target="#personal-website" data-slide-to="1"></li>--}}
+{{--                    <li data-target="#personal-website" data-slide-to="2"></li>--}}
+{{--                    <li data-target="#personal-website" data-slide-to="3"></li>--}}
+{{--                    <li data-target="#personal-website" data-slide-to="4"></li>--}}
+{{--                </ol>--}}
                 <div class="carousel-inner">
                     <div class="carousel-item">
                         <img class="d-block w-100 rounded" src="/assets/images/works/personal-website/index.PNG" alt="Home Page">
-                        <div class="carousel-caption d-none d-md-block">
-                            <div class="h5 theme-fg text-right"><span class="bg-white p-1 rounded">Home Page</span></div>
-                        </div>
+{{--                        <div class="carousel-caption d-none d-md-block">--}}
+{{--                            <div class="h5 theme-fg text-right"><span class="bg-white p-1 rounded">Home Page</span></div>--}}
+{{--                        </div>--}}
                     </div>
                     <div class="carousel-item">
                         <img class="d-block w-100 rounded" src="/assets/images/works/personal-website/works.PNG" alt="Works Page">
-                        <div class="carousel-caption d-none d-md-block">
-                            <div class="h5 theme-fg text-right"><span class="bg-white p-1 rounded">Works Page</span></div>
-                        </div>
+{{--                        <div class="carousel-caption d-none d-md-block">--}}
+{{--                            <div class="h5 theme-fg text-right"><span class="bg-white p-1 rounded">Works Page</span></div>--}}
+{{--                        </div>--}}
                     </div>
                     <div class="carousel-item">
                         <img class="d-block w-100 rounded" src="/assets/images/works/personal-website/skills.PNG" alt="Skills Page">
-                        <div class="carousel-caption d-none d-md-block">
-                            <div class="h5 theme-fg text-right"><span class="bg-white p-1 rounded">Skills Page</span></div>
-                        </div>
+{{--                        <div class="carousel-caption d-none d-md-block">--}}
+{{--                            <div class="h5 theme-fg text-right"><span class="bg-white p-1 rounded">Skills Page</span></div>--}}
+{{--                        </div>--}}
                     </div>
                     <div class="carousel-item">
                         <img class="d-block w-100 rounded" src="/assets/images/works/personal-website/resume.PNG" alt="Resume Page">
-                        <div class="carousel-caption d-none d-md-block">
-                            <div class="h5 theme-fg text-right"><span class="bg-white p-1 rounded">Resume Page</span></div>
-                        </div>
+{{--                        <div class="carousel-caption d-none d-md-block">--}}
+{{--                            <div class="h5 theme-fg text-right"><span class="bg-white p-1 rounded">Resume Page</span></div>--}}
+{{--                        </div>--}}
                     </div>
                     <div class="carousel-item">
                         <img class="d-block w-100 rounded" src="/assets/images/works/personal-website/contacts.PNG" alt="Contacts Page">
-                        <div class="carousel-caption d-none d-md-block">
-                            <div class="h5 theme-fg text-right"><span class="bg-white p-1 rounded">Contacts Page</span></div>
-                        </div>
+{{--                        <div class="carousel-caption d-none d-md-block">--}}
+{{--                            <div class="h5 theme-fg text-right"><span class="bg-white p-1 rounded">Contacts Page</span></div>--}}
+{{--                        </div>--}}
                     </div>
                 </div>
-                <a class="carousel-control-prev" href="#personal-website" role="button" data-slide="prev">
-                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                    <span class="sr-only">Previous</span>
-                </a>
-                <a class="carousel-control-next" href="#personal-website" role="button" data-slide="next">
-                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                    <span class="sr-only">Next</span>
-                </a>
+{{--                <a class="carousel-control-prev" href="#personal-website" role="button" data-slide="prev">--}}
+{{--                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>--}}
+{{--                    <span class="sr-only">Previous</span>--}}
+{{--                </a>--}}
+{{--                <a class="carousel-control-next" href="#personal-website" role="button" data-slide="next">--}}
+{{--                    <span class="carousel-control-next-icon" aria-hidden="true"></span>--}}
+{{--                    <span class="sr-only">Next</span>--}}
+{{--                </a>--}}
             </div>
         </div>
     </div>

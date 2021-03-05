@@ -10254,3 +10254,7 @@ hr.glyph:after {
     max-width: 695px;
     min-width: 350px;
 }
+
+.pointer-cursor {
+    cursor: pointer;
+}

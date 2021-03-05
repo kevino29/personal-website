@@ -31,4 +31,9 @@ Route::get('/works/work/maze-solver', [App\Http\Controllers\WorksController::cla
 Route::get('/works/work/spell-checker', [App\Http\Controllers\WorksController::class, 'spell']);
 Route::get('/works/work/personal-website', [App\Http\Controllers\WorksController::class, 'website']);
 
+// Test route
+Route::get('/test', function() {
+    return view('test');
+});
+
 Auth::routes();

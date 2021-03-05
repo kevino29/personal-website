@@ -14,6 +14,7 @@
     <!-- Scripts -->
     <script src="https://kit.fontawesome.com/212d82f631.js" crossorigin="anonymous"></script>
     <script src="{{ asset('js/app.js') }}" defer></script>
+    <script src="{{ asset('js/carousel_zoom.js') }}"></script>
 
     <!-- Fonts -->
     <link rel="dns-prefetch" href="//fonts.gstatic.com">
