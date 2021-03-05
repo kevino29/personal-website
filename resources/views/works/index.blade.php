@@ -24,7 +24,7 @@
 
     <div class="row justify-content-center mt-5">
         <div class="col-md-6">
-            <div id="mp3-player" class="carousel slide pointer-cursor shadow" data-ride="carousel"
+            <div id="mp3-player" class="carousel slide pointer-cursor shadow zoom-sm" data-ride="carousel"
                  data-toggle="tooltip" data-placement="bottom" title="Click to zoom">
 {{--                <ol class="carousel-indicators">--}}
 {{--                    <li data-target="#mp3-player" data-slide-to="0" class="active"></li>--}}
@@ -89,7 +89,7 @@
 
     <div class="row justify-content-center mt-5">
         <div class="col-md-6">
-            <div id="flappy-bird" class="carousel slide pointer-cursor shadow" data-ride="carousel"
+            <div id="flappy-bird" class="carousel slide pointer-cursor shadow zoom-sm" data-ride="carousel"
                  data-toggle="tooltip" data-placement="bottom" title="Click to zoom">
 {{--                <ol class="carousel-indicators">--}}
 {{--                    <li data-target="#flappy-bird" data-slide-to="0" class="active"></li>--}}
@@ -157,7 +157,7 @@
 
     <div class="row justify-content-center mt-5">
         <div class="col-md-6">
-            <div id="maze-solver" class="carousel slide pointer-cursor shadow" data-ride="carousel"
+            <div id="maze-solver" class="carousel slide pointer-cursor shadow zoom-sm" data-ride="carousel"
                  data-toggle="tooltip" data-placement="bottom" title="Click to zoom">
 {{--                <ol class="carousel-indicators">--}}
 {{--                    <li data-target="#maze-solver" data-slide-to="0" class="active"></li>--}}
@@ -222,7 +222,7 @@
 
     <div class="row justify-content-center mt-5">
         <div class="col-md-6">
-            <div id="spell-checker" class="carousel slide pointer-cursor shadow" data-ride="carousel">
+            <div id="spell-checker" class="carousel slide pointer-cursor shadow zoom-sm" data-ride="carousel">
 {{--                <ol class="carousel-indicators">--}}
 {{--                    <li data-target="#spell-checker" data-slide-to="0" class="active"></li>--}}
 {{--                    <li data-target="#spell-checker" data-slide-to="1"></li>--}}
@@ -305,7 +305,7 @@
 
     <div class="row justify-content-center mt-5">
         <div class="col-md-6">
-            <div id="portfolio" class="carousel slide pointer-cursor shadow" data-ride="carousel"
+            <div id="portfolio" class="carousel slide pointer-cursor shadow zoom-sm" data-ride="carousel"
                  data-toggle="tooltip" data-placement="bottom" title="Click to zoom">
 {{--                <ol class="carousel-indicators mx-auto">--}}
 {{--                    <li data-target="#personal-website" data-slide-to="0" class="active"></li>--}}

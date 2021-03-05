@@ -10259,8 +10259,12 @@ hr.glyph:after {
     cursor: pointer;
 }
 
-.zoom {
+.zoom-sm, .zoom {
     transition: transform .2s;
+}
+
+.zoom-sm:hover {
+    transform: scale(1.1);
 }
 
 .zoom:hover {
