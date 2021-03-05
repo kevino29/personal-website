@@ -262,9 +262,9 @@
                     </div>
                     <div class="carousel-item">
                         <img class="d-block w-100 rounded" src="/assets/images/works/spell-checker/code_snippet.PNG" alt="Code Snippet">
-                        <div class="carousel-caption d-none d-md-block">
-                            <div class="h5 theme-fg text-right"><span class="bg-white p-1 rounded">Code Snippet</span></div>
-                        </div>
+{{--                        <div class="carousel-caption d-none d-md-block">--}}
+{{--                            <div class="h5 theme-fg text-right"><span class="bg-white p-1 rounded">Code Snippet</span></div>--}}
+{{--                        </div>--}}
                     </div>
                 </div>
 {{--                <a class="carousel-control-prev" href="#spell-checker" role="button" data-slide="prev">--}}
