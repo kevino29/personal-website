@@ -10258,3 +10258,11 @@ hr.glyph:after {
 .pointer-cursor {
     cursor: pointer;
 }
+
+.zoom {
+    transition: transform .2s;
+}
+
+.zoom:hover {
+    transform: scale(1.2);
+}
