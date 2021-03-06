@@ -1,6 +1,6 @@
 window.addEventListener('load', function() {
     let carousels = document.querySelectorAll('.carousel');
-    let scrollbar = document.querySelector('.scrollbar-animation');
+    let scrollbar = document.querySelector('.scrollbar-progress-container');
 
     for (let i = 0; i < carousels.length; i++) {
         carousels[i].addEventListener('click', function(e) {
