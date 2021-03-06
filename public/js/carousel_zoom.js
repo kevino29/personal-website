@@ -1,8 +1,12 @@
 window.addEventListener('load', function() {
     let carousels = document.querySelectorAll('.carousel');
+    let scrollbar = document.querySelector('.scrollbar-animation');
 
     for (let i = 0; i < carousels.length; i++) {
         carousels[i].addEventListener('click', function(e) {
+            // Hide the scrollbar
+            scrollbar.style.display = 'none';
+
             // Get the carousel
             let carousel = e.target;
 
@@ -67,6 +71,7 @@ window.addEventListener('load', function() {
             // Exit overlay listener
             exitOverlay.addEventListener('click', function() {
                 overlay.parentElement.removeChild(overlay);
+                scrollbar.style.display = 'flex';
             });
         });
     }
